@@ -10,6 +10,7 @@ tip.addEventListener('change', updateValue);
 
 function updateValue(e) {
 	
+	
    
    var bill = document.getElementById('billtotal').value;
    var tipValue = document.getElementById('tip').value;
